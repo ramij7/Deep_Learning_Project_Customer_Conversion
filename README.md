@@ -3,10 +3,12 @@
 Developed a deep learning algorithm to predict customer conversion for audiobook purchases after receiving promotional emails. The project involved collecting, preprocessing, and analyzing customer data to build a predictive model that identifies potential buyers.
 
 ## Workflow:
-**Data Collection:** Gathered customer data including past purchase history, engagement metrics, and demographic information.
 **Data Preprocessing:** Cleaned and scaled the data to ensure consistency and accuracy. Handled imbalanced data by equalizing the number of positive and negative targets.
+
 **Model Building:** Utilized TensorFlow and Keras to design and train a neural network model. The model included multiple hidden layers with ReLU activation functions and an output layer with softmax activation for classification.
+
 **Model Saving:** Saved the trained model using the Keras format to ensure compatibility and ease of use for future predictions.
+
 **Prediction:** Applied the model to new customer data to predict the likelihood of conversion. The model outputs the customer IDs of those likely to purchase after receiving a promotional email.
 
 ## Technical Skills:
