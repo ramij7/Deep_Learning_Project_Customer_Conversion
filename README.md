@@ -13,8 +13,11 @@ Developed a deep learning algorithm to predict customer conversion for audiobook
 
 ## Technical Skills:
 **Programming Languages:** Python
+
 **Libraries and Frameworks:** NumPy, Pandas, TensorFlow, Keras, Scikit-learn
+
 **Tools:** Jupyter Notebook, Anaconda
+
 **Techniques:** Data Preprocessing, Neural Networks, Model Training, Model Evaluation, Data Scaling, Imbalanced Data Handling
 
 ## Achievements:
